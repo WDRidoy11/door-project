@@ -6,6 +6,10 @@
     font-family: Roboto, sans-serif;
 }
 
+img{
+    max-width: 100%;
+}
+
 body {
     background: url("../image/designer_original_background_image.png");
     background-repeat: no-repeat;
