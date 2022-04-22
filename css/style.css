@@ -116,6 +116,10 @@ h5 {
     color: #252324;
 }
 
+.door-design-item {
+    margin: 0px 0px 10px 0px;
+}
+
 
 /*============================== options ==============================*/
 
@@ -186,4 +190,20 @@ button:nth-child(1) {
 .inner-frame-color {
     width: 100%;
     height: 159px;
+}
+
+
+/*============================== door design ==============================*/
+
+.inner-glass-design {
+    width: 100%;
+    height: 173px;
+}
+
+
+/*============================== hardware ==============================*/
+
+.inner-hardware {
+    width: 100%;
+    height: 160px;
 }
